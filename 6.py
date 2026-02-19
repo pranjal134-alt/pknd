@@ -1,4 +1,4 @@
-import numpy as np
+'''import numpy as np
 k=np.full((2,3),8)
 print(k)
 l=np.arange(1,3,2)
@@ -78,7 +78,7 @@ if(copy_list1==list1):
 else:
     print("non palindrome4" ) 
 k=list(map(int,input("enter the number").split()))
-print(k)       
+print(k)  '''     
 import numpy as np
 g=np.array([2,3,4,5,6,7])
 print(np.insert(g,2,3))
