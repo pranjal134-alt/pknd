@@ -1,5 +1,21 @@
-,Name,Age,City
-0,A,23,X
-1,B,34,Y
-2,C,45,zds
-3,D,56,W
+ID,City_Name,Country,Type
+1,Delhi,India,Capital
+2,Mumbai,India,Large City
+3,Bhopal,India,Capital
+4,Indore,India,Large City
+5,Jaipur,India,Capital
+6,Ujjain,India,Small City
+7,lucknow,India,Capital
+8,KaNpur,India,Large City
+9,Shimla,India,Capital
+10,Manali,India,Small City
+11,Paris,France,Capital
+12,Lyon,France,Large City
+13,Berlin,Germany,Capital
+14,Hamburg,Germany,Large City
+15,Tokyo,Japan,Capital
+16,Osaka,Japan,Large City
+17,Canberra,Australia,Capital
+18,Sydney,Australia,Large City
+19,Venice,Italy,Small City
+20,Rome,Italy,Capital
